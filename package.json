@@ -21,9 +21,6 @@
 		"node-dependencies": "0.x.x",
 		"travis-cov": "0.x.x"
 	},
-	"peerDependencies": {
-		"hapi": "^11.x.x"
-	},
 	"keywords": [
 		"hapi",
 		"plugin",
